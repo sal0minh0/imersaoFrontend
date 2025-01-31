@@ -1,2 +1,4 @@
 # Imersão Frontend
-Treinando um Projeto 🧠
+Fazendo um Projeto: Clone do Spotify 🧠
+
+Para Treinar HTML, CSS e JS
