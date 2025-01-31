@@ -1,2 +1,2 @@
-# imersaoFrontend
-Treinando com a Imersão Frontend da Alura
+# Imersão Frontend
+Treinando um Projeto 🧠
